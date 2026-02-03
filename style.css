@@ -1,0 +1,38 @@
+body {
+font-family: Inter, Arial;
+margin: 0;
+background: #f4f6fb;
+}
+
+.header {
+background: #2b4eff;
+color: white;
+padding: 15px;
+}
+
+.container {
+max-width: 1000px;
+margin: auto;
+padding: 20px;
+}
+
+.hero {
+text-align: center;
+padding: 80px 20px;
+color: white;
+background: linear-gradient(135deg,#667eea,#764ba2);
+}
+
+.footer {
+background: #1e293b;
+padding: 15px;
+margin-top: 40px;
+}
+
+.math-formula {
+background: white;
+padding: 12px;
+border-left: 4px solid #3b82f6;
+margin: 12px 0;
+border-radius: 6px;
+}
